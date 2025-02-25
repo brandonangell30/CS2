@@ -1,0 +1,8 @@
+The function that took the longest was bubble sort
+It took up 37.71% of the time, being 1.13 seconds
+Its taking just over a third of the processing time
+The creation of a vector is also taking forever, and using the subscript operator on it aswell is slow.
+Together take take up roughly 70% of the time.
+Lessthan and swap functions also take up some time however it is negligable compared to the vector and bubble sort.
+Bubble sort has a bad time complexity of O(n^2), so when there are a lot of elements to sort it is inefficient.
+A more efficient time complexity for large data sets would be O(n*log(n))
