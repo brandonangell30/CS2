@@ -1,0 +1,11 @@
+ 13:16:04 up 7 days, 21:50,  9 users,  load average: 4.42, 3.97, 2.63
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+jmaletic pts/0    131.123.38.179   Tue16   44:38m  0.07s  0.07s -bash
+hpeyravi pts/2    131.123.39.24    Mon12   23:26m  0.13s  0.13s -bash
+aguercio pts/13   10.11.104.82     10:38    2:37m  0.09s  0.09s -bash
+jsipahio pts/16   24.154.9.171     11:33    1:35m  0.08s  0.08s -bash
+gparry1  pts/17   10.12.56.209     11:34    1:41m  0.17s  0.17s /bin/sh -i
+gparry1  pts/15   10.12.56.209     11:29    1:46m  0.07s  0.07s -bash
+pjayasee pts/18   10.22.37.0       12:27    1.00s  0.34s  0.34s -bash
+aguercio pts/20   10.20.72.39      11:57    1:03m  0.11s  0.11s -bash
+bpatel28 pts/40   -                13:03   12:32   0.06s  0.06s bash -i
